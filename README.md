@@ -17,6 +17,9 @@ https://datacatalog.worldbank.org/search/dataset/0041706
 https://datacatalog.worldbank.org/search/dataset/0040447/World---Regulatory-Indicators-for-Sustainable-Energy
 -	Global Photovoltaic Power Potential by Country | Data Catalog
 https://datacatalog.worldbank.org/search/dataset/0038379/Global-Photovoltaic-Power-Potential-by-Country
+# Additional Sources
+https://rise.esmap.org/about-us
+https://electricityplans.com/kwh-kilowatt-hour-can-power/
 
 # Known Issues and Challenges
 ●	Merging datasets
