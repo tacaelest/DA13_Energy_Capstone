@@ -19,7 +19,6 @@ https://datacatalog.worldbank.org/search/dataset/0040447/World---Regulatory-Indi
 https://datacatalog.worldbank.org/search/dataset/0038379/Global-Photovoltaic-Power-Potential-by-Country
 
 # Known Issues and Challenges
-Explain any anticipated challenges with your project, and your plan for managing them. Be sure to include:
 ●	Merging datasets
 ●	Missing data for some countries
 ●	Industry jargon that will need to be explained
