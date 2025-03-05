@@ -5,6 +5,8 @@ I would like to present a look into access to electricity and sustainable energy
 -	World Energy Scores
 -	Population Data
 -	Photovoltaic/Solar Energy Potential
+-	# My Dashboard
+-	https://app.powerbi.com/view?r=eyJrIjoiOTUxNGFhZDktZmYzMC00MGUxLWJhZWMtMzE2YjJkYWZmNjRjIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 # Motivation
 What does data do best? It can have tangible impacts by giving the data a voice to tell a story. I chose this project due to the rise in discussions on sustainable energy and access to electricity over the years. I was curious to see what that would look like. I think it is important to include factors such as population, access, cost, and consumption when discussing these ideas and theories on potential growth of sustainable energy for a multitude of countries.
 # Data Question
